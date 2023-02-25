@@ -1,0 +1,21 @@
+
+
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #c45664;
+border-radius: 30px;
+border: 2px solid ;
+}
+
+.gifka {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.text {
+font-size: 30px;
+line-height: 1;
+}
